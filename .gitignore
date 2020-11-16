@@ -1,0 +1,21 @@
+# Maven Wrapper Files
+target/
+
+# IntelliJ Files
+.idea/
+*.iml
+
+# Eclipse
+.classpath
+.project
+.settings
+
+# mac hidden file
+.DS_Store
+
+# Project output files
+COMMIT
+firework-*
+*.jar
+
+*.log
